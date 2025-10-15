@@ -1,0 +1,156 @@
+[
+    {
+        "tokens": [
+            "RT",
+            "@",
+            "hist",
+            "_",
+            "astro",
+            ":",
+            "Depiction",
+            "of",
+            "a",
+            "grand",
+            "orrery",
+            ",",
+            "by",
+            "John",
+            "Hinton",
+            ",",
+            "London",
+            ",",
+            "1749",
+            "http://t.",
+            "co/3jZH4jlKta",
+            "@",
+            "NMMGreenwich"
+        ],
+        "img_id": "1074971.jpg",
+        "gt_entities": [
+            {
+                "start": 13,
+                "end": 14,
+                "entity_coarse_type": "person",
+                "entity_type": "intellectual",
+                "phrase": "John Hinton",
+                "region_box": []
+            },
+            {
+                "start": 16,
+                "end": 16,
+                "entity_coarse_type": "location",
+                "entity_type": "city",
+                "phrase": "London",
+                "region_box": []
+            }
+        ]
+    },
+	{
+        "tokens": [
+            "United",
+            "We",
+            "Stand",
+            "!",
+            "Join",
+            "@",
+            "SarahPalinUSA",
+            "@",
+            "DineshDSouza",
+            "and",
+            "Paul",
+            "Rodriguez",
+            "for",
+            "a",
+            "PATRIOTIC",
+            "evening",
+            ":"
+        ],
+        "img_id": "594269.jpg",
+        "gt_entities": [
+            {
+                "start": 8,
+                "end": 8,
+                "entity_coarse_type": "person",
+                "entity_type": "actor",
+                "phrase": "DineshDSouza",
+                "region_box": [
+                    384,
+                    500,
+                    464,
+                    578
+                ]
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "entity_coarse_type": "person",
+                "entity_type": "actor",
+                "phrase": "Paul Rodriguez",
+                "region_box": [
+                    481,
+                    499,
+                    563,
+                    579
+                ]
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "entity_coarse_type": "event",
+                "entity_type": "festival",
+                "phrase": "PATRIOTIC evening",
+                "region_box": []
+            }
+        ]
+    },
+	{
+        "tokens": [
+            "RT",
+            "@",
+            "Pac12Networks",
+            ":",
+            "Pac-12",
+            "champs",
+            "@",
+            "UCLAMBB",
+            "moved",
+            "past",
+            "Tulsa",
+            "and",
+            "into",
+            "the",
+            "3rd",
+            "round",
+            "."
+        ],
+        "img_id": "116421.jpg",
+        "gt_entities": [
+            {
+                "start": 7,
+                "end": 7,
+                "entity_coarse_type": "organization",
+                "entity_type": "sports_team",
+                "phrase": "UCLAMBB",
+                "region_box": [
+                    496,
+                    144,
+                    596,
+                    184
+                ]
+            },
+            {
+                "start": 10,
+                "end": 10,
+                "entity_coarse_type": "organization",
+                "entity_type": "sports_team",
+                "phrase": "Tulsa",
+                "region_box": [
+                    4,
+                    134,
+                    119,
+                    188
+                ]
+            }
+        ]
+    }
+]
